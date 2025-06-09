@@ -16,6 +16,7 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/talita-ramos-7b3a59138" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats-talitaramos.vercel.app/api?username=TalitaRamos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=TalitaRamos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TalitaRamos&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TalitaRamos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
